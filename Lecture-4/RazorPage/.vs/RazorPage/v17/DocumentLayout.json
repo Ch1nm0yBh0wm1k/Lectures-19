@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DeLL\\Desktop\\19B1\\ClassTime\\RazorPage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2731603-43EA-472C-9091-1A85C18013F5}|RazorPage\\RazorPage.csproj|c:\\users\\dell\\desktop\\19b1\\classtime\\razorpage\\razorpage\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2731603-43EA-472C-9091-1A85C18013F5}|RazorPage\\RazorPage.csproj|solutionrelative:razorpage\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2731603-43EA-472C-9091-1A85C18013F5}|RazorPage\\RazorPage.csproj|c:\\users\\dell\\desktop\\19b1\\classtime\\razorpage\\razorpage\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2731603-43EA-472C-9091-1A85C18013F5}|RazorPage\\RazorPage.csproj|solutionrelative:razorpage\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2731603-43EA-472C-9091-1A85C18013F5}|RazorPage\\RazorPage.csproj|c:\\users\\dell\\desktop\\19b1\\classtime\\razorpage\\razorpage\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2731603-43EA-472C-9091-1A85C18013F5}|RazorPage\\RazorPage.csproj|solutionrelative:razorpage\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2731603-43EA-472C-9091-1A85C18013F5}|RazorPage\\RazorPage.csproj|c:\\users\\dell\\desktop\\19b1\\classtime\\razorpage\\razorpage\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2731603-43EA-472C-9091-1A85C18013F5}|RazorPage\\RazorPage.csproj|solutionrelative:razorpage\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\19B1\\ClassTime\\RazorPage\\RazorPage\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPage\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\19B1\\ClassTime\\RazorPage\\RazorPage\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "RazorPage\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T04:14:28.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\19B1\\ClassTime\\RazorPage\\RazorPage\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "RazorPage\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\19B1\\ClassTime\\RazorPage\\RazorPage\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "RazorPage\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T04:13:54.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\19B1\\ClassTime\\RazorPage\\RazorPage\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorPage\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\19B1\\ClassTime\\RazorPage\\RazorPage\\Pages\\Index.cshtml",
+              "RelativeToolTip": "RazorPage\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T04:13:30.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\19B1\\ClassTime\\RazorPage\\RazorPage\\Startup.cs",
+              "RelativeDocumentMoniker": "RazorPage\\Startup.cs",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\19B1\\ClassTime\\RazorPage\\RazorPage\\Startup.cs",
+              "RelativeToolTip": "RazorPage\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T04:12:57.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

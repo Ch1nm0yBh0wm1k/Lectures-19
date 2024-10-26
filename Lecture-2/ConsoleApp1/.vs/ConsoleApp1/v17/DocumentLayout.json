@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\ProjectsEdge\\19B1\\Lectures-19\\Lecture-2\\ConsoleApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{08A359CF-CE6D-4CE5-BCB1-4AA027EE387B}|ConsoleApp1\\ConsoleApp1.csproj|e:\\projectsedge\\19b1\\lectures-19\\lecture-2\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A359CF-CE6D-4CE5-BCB1-4AA027EE387B}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E7E04F36-9EB9-42C6-9944-9A9765850A87}|ConsoleApp2\\ConsoleApp2.csproj|e:\\projectsedge\\19b1\\lectures-19\\lecture-2\\consoleapp1\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7E04F36-9EB9-42C6-9944-9A9765850A87}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -48,11 +52,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ProjectsEdge\\19B1\\Lectures-19\\Lecture-2\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "E:\\ProjectsEdge\\19B1\\Lectures-19\\Lecture-2\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAADoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T05:08:16.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "E:\\ProjectsEdge\\19B1\\Lectures-19\\Lecture-2\\ConsoleApp1\\ConsoleApp2\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
               "ToolTip": "E:\\ProjectsEdge\\19B1\\Lectures-19\\Lecture-2\\ConsoleApp1\\ConsoleApp2\\Program.cs",
               "RelativeToolTip": "ConsoleApp2\\Program.cs",
-              "ViewState": "AQIAAMkAAAAAAAAAAAA1wNQAAAAXAAAA",
+              "ViewState": "AQIAAMoAAAAAAAAAAAAQwNgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-28T04:31:34.88Z",
               "EditorCaption": ""

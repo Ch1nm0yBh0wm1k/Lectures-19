@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DeLL\\Desktop\\19B1\\ClassTime\\TestSix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{887B6A56-CEA7-45D2-A5A3-04AB40F51409}|TestSix\\TestSix.csproj|c:\\users\\dell\\desktop\\19b1\\classtime\\testsix\\testsix\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{887B6A56-CEA7-45D2-A5A3-04AB40F51409}|TestSix\\TestSix.csproj|solutionrelative:testsix\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887B6A56-CEA7-45D2-A5A3-04AB40F51409}|TestSix\\TestSix.csproj|c:\\users\\dell\\desktop\\19b1\\classtime\\testsix\\testsix\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887B6A56-CEA7-45D2-A5A3-04AB40F51409}|TestSix\\TestSix.csproj|solutionrelative:testsix\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887B6A56-CEA7-45D2-A5A3-04AB40F51409}|TestSix\\TestSix.csproj|c:\\users\\dell\\desktop\\19b1\\classtime\\testsix\\testsix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887B6A56-CEA7-45D2-A5A3-04AB40F51409}|TestSix\\TestSix.csproj|solutionrelative:testsix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887B6A56-CEA7-45D2-A5A3-04AB40F51409}|TestSix\\TestSix.csproj|c:\\users\\dell\\desktop\\19b1\\classtime\\testsix\\testsix\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{887B6A56-CEA7-45D2-A5A3-04AB40F51409}|TestSix\\TestSix.csproj|solutionrelative:testsix\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887B6A56-CEA7-45D2-A5A3-04AB40F51409}|TestSix\\TestSix.csproj|c:\\users\\dell\\desktop\\19b1\\classtime\\testsix\\testsix\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{887B6A56-CEA7-45D2-A5A3-04AB40F51409}|TestSix\\TestSix.csproj|solutionrelative:testsix\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887B6A56-CEA7-45D2-A5A3-04AB40F51409}|TestSix\\TestSix.csproj|c:\\users\\dell\\desktop\\19b1\\classtime\\testsix\\testsix\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{887B6A56-CEA7-45D2-A5A3-04AB40F51409}|TestSix\\TestSix.csproj|solutionrelative:testsix\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887B6A56-CEA7-45D2-A5A3-04AB40F51409}|TestSix\\TestSix.csproj|c:\\users\\dell\\desktop\\19b1\\classtime\\testsix\\testsix\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{887B6A56-CEA7-45D2-A5A3-04AB40F51409}|TestSix\\TestSix.csproj|solutionrelative:testsix\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887B6A56-CEA7-45D2-A5A3-04AB40F51409}|TestSix\\TestSix.csproj|c:\\users\\dell\\desktop\\19b1\\classtime\\testsix\\testsix\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{887B6A56-CEA7-45D2-A5A3-04AB40F51409}|TestSix\\TestSix.csproj|solutionrelative:testsix\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887B6A56-CEA7-45D2-A5A3-04AB40F51409}|TestSix\\TestSix.csproj|c:\\users\\dell\\desktop\\19b1\\classtime\\testsix\\testsix\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{887B6A56-CEA7-45D2-A5A3-04AB40F51409}|TestSix\\TestSix.csproj|solutionrelative:testsix\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887B6A56-CEA7-45D2-A5A3-04AB40F51409}|TestSix\\TestSix.csproj|c:\\users\\dell\\desktop\\19b1\\classtime\\testsix\\testsix\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{887B6A56-CEA7-45D2-A5A3-04AB40F51409}|TestSix\\TestSix.csproj|solutionrelative:testsix\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887B6A56-CEA7-45D2-A5A3-04AB40F51409}|TestSix\\TestSix.csproj|c:\\users\\dell\\desktop\\19b1\\classtime\\testsix\\testsix\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{887B6A56-CEA7-45D2-A5A3-04AB40F51409}|TestSix\\TestSix.csproj|solutionrelative:testsix\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887B6A56-CEA7-45D2-A5A3-04AB40F51409}|TestSix\\TestSix.csproj|c:\\users\\dell\\desktop\\19b1\\classtime\\testsix\\testsix\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887B6A56-CEA7-45D2-A5A3-04AB40F51409}|TestSix\\TestSix.csproj|solutionrelative:testsix\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887B6A56-CEA7-45D2-A5A3-04AB40F51409}|TestSix\\TestSix.csproj|c:\\users\\dell\\desktop\\19b1\\classtime\\testsix\\testsix\\testsix.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{887B6A56-CEA7-45D2-A5A3-04AB40F51409}|TestSix\\TestSix.csproj|solutionrelative:testsix\\testsix.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\19B1\\ClassTime\\TestSix\\TestSix\\appsettings.json",
+              "RelativeDocumentMoniker": "TestSix\\appsettings.json",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\19B1\\ClassTime\\TestSix\\TestSix\\appsettings.json",
+              "RelativeToolTip": "TestSix\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T04:43:35.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\19B1\\ClassTime\\TestSix\\TestSix\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "TestSix\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\19B1\\ClassTime\\TestSix\\TestSix\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "TestSix\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T04:43:30.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\19B1\\ClassTime\\TestSix\\TestSix\\Program.cs",
+              "RelativeDocumentMoniker": "TestSix\\Program.cs",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\19B1\\ClassTime\\TestSix\\TestSix\\Program.cs",
+              "RelativeToolTip": "TestSix\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T04:30:26.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\19B1\\ClassTime\\TestSix\\TestSix\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TestSix\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\19B1\\ClassTime\\TestSix\\TestSix\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TestSix\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAjwBAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T04:40:35.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\19B1\\ClassTime\\TestSix\\TestSix\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TestSix\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\19B1\\ClassTime\\TestSix\\TestSix\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TestSix\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T05:20:09.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\19B1\\ClassTime\\TestSix\\TestSix\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TestSix\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\19B1\\ClassTime\\TestSix\\TestSix\\appsettings.Development.json",
+              "RelativeToolTip": "TestSix\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T04:43:43.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\19B1\\ClassTime\\TestSix\\TestSix\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TestSix\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\19B1\\ClassTime\\TestSix\\TestSix\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TestSix\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T04:43:09.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\19B1\\ClassTime\\TestSix\\TestSix\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TestSix\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\19B1\\ClassTime\\TestSix\\TestSix\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TestSix\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T05:03:12.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\19B1\\ClassTime\\TestSix\\TestSix\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TestSix\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\19B1\\ClassTime\\TestSix\\TestSix\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TestSix\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T04:43:28.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\19B1\\ClassTime\\TestSix\\TestSix\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "TestSix\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\19B1\\ClassTime\\TestSix\\TestSix\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "TestSix\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T04:43:26.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\19B1\\ClassTime\\TestSix\\TestSix\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "TestSix\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\19B1\\ClassTime\\TestSix\\TestSix\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "TestSix\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T04:42:42.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\19B1\\ClassTime\\TestSix\\TestSix\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "TestSix\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\19B1\\ClassTime\\TestSix\\TestSix\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "TestSix\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T04:41:45.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TestSix.csproj",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\19B1\\ClassTime\\TestSix\\TestSix\\TestSix.csproj",
+              "RelativeDocumentMoniker": "TestSix\\TestSix.csproj",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\19B1\\ClassTime\\TestSix\\TestSix\\TestSix.csproj",
+              "RelativeToolTip": "TestSix\\TestSix.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-26T04:36:19.851Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

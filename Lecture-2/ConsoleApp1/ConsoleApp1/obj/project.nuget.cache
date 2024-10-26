@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JJQBCc9uR43/In0Hbi/5IGqMupSx4zX2QbePbfSJPfatr292sD0hlJnMGjplkGYJ8G6OzbIRhbTMzHYY4oCXSg==",
+  "dgSpecHash": "p94bCjeY7xfFh/2W7fvd7MjzZS9UKZ4G95AIzKVZ3niQFDxWiQO+ZOC72dvBX2qlp/1NKZaLFfl0dobGBsrnqw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DeLL\\Desktop\\19B1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "E:\\ProjectsEdge\\19B1\\Lectures-19\\Lecture-2\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DeLL\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
     "C:\\Users\\DeLL\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
