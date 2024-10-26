@@ -13,11 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "E:\\ProjectsEdge\\19B1\\Lectures-19\\Lecture-2\\ConsoleApp1\\ConsoleApp2\\ConsoleApp2.csproj",
       "projectName": "ConsoleApp2",
       "projectPath": "E:\\ProjectsEdge\\19B1\\Lectures-19\\Lecture-2\\ConsoleApp1\\ConsoleApp2\\ConsoleApp2.csproj",
       "packagesPath": "C:\\Users\\DeLL\\.nuget\\packages\\",
       "outputPath": "E:\\ProjectsEdge\\19B1\\Lectures-19\\Lecture-2\\ConsoleApp1\\ConsoleApp2\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\DeLL\\Desktop\\test2\\Lectures-19\\Lecture-2\\ConsoleApp1\\ConsoleApp2\\ConsoleApp2.csproj",
+      "projectName": "ConsoleApp2",
+      "projectPath": "C:\\Users\\DeLL\\Desktop\\test2\\Lectures-19\\Lecture-2\\ConsoleApp1\\ConsoleApp2\\ConsoleApp2.csproj",
+      "packagesPath": "C:\\Users\\DeLL\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DeLL\\Desktop\\test2\\Lectures-19\\Lecture-2\\ConsoleApp1\\ConsoleApp2\\obj\\",
+>>>>>>> d63f2198ec8031eebf70f85d7bf918bf0f6a1e26
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DeLL\\AppData\\Roaming\\NuGet\\NuGet.Config",
