@@ -9,43 +9,43 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CrudUsingNonQuery
 build_property.RootNamespace = CrudUsingNonQuery
-build_property.ProjectDir = C:\Users\DeLL\Desktop\19B1\CrudUsingNonQuery\CrudUsingNonQuery\
+build_property.ProjectDir = E:\ProjectsEdge\19B1\Lectures-19\Lecture-6\CrudUsingNonQuery\CrudUsingNonQuery\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\DeLL\Desktop\19B1\CrudUsingNonQuery\CrudUsingNonQuery
+build_property.MSBuildProjectDirectory = E:\ProjectsEdge\19B1\Lectures-19\Lecture-6\CrudUsingNonQuery\CrudUsingNonQuery
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/DeLL/Desktop/19B1/CrudUsingNonQuery/CrudUsingNonQuery/Views/Customer/Index.cshtml]
+[E:/ProjectsEdge/19B1/Lectures-19/Lecture-6/CrudUsingNonQuery/CrudUsingNonQuery/Views/Customer/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DeLL/Desktop/19B1/CrudUsingNonQuery/CrudUsingNonQuery/Views/Home/Index.cshtml]
+[E:/ProjectsEdge/19B1/Lectures-19/Lecture-6/CrudUsingNonQuery/CrudUsingNonQuery/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DeLL/Desktop/19B1/CrudUsingNonQuery/CrudUsingNonQuery/Views/Home/Privacy.cshtml]
+[E:/ProjectsEdge/19B1/Lectures-19/Lecture-6/CrudUsingNonQuery/CrudUsingNonQuery/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DeLL/Desktop/19B1/CrudUsingNonQuery/CrudUsingNonQuery/Views/Shared/Error.cshtml]
+[E:/ProjectsEdge/19B1/Lectures-19/Lecture-6/CrudUsingNonQuery/CrudUsingNonQuery/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DeLL/Desktop/19B1/CrudUsingNonQuery/CrudUsingNonQuery/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/ProjectsEdge/19B1/Lectures-19/Lecture-6/CrudUsingNonQuery/CrudUsingNonQuery/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DeLL/Desktop/19B1/CrudUsingNonQuery/CrudUsingNonQuery/Views/_ViewImports.cshtml]
+[E:/ProjectsEdge/19B1/Lectures-19/Lecture-6/CrudUsingNonQuery/CrudUsingNonQuery/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DeLL/Desktop/19B1/CrudUsingNonQuery/CrudUsingNonQuery/Views/_ViewStart.cshtml]
+[E:/ProjectsEdge/19B1/Lectures-19/Lecture-6/CrudUsingNonQuery/CrudUsingNonQuery/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DeLL/Desktop/19B1/CrudUsingNonQuery/CrudUsingNonQuery/Views/Shared/_Layout.cshtml]
+[E:/ProjectsEdge/19B1/Lectures-19/Lecture-6/CrudUsingNonQuery/CrudUsingNonQuery/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-l66r6wb66h

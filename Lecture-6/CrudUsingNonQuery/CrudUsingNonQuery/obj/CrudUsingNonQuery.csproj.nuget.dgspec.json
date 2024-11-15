@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DeLL\\Desktop\\19B1\\CrudUsingNonQuery\\CrudUsingNonQuery\\CrudUsingNonQuery.csproj": {}
+    "E:\\ProjectsEdge\\19B1\\Lectures-19\\Lecture-6\\CrudUsingNonQuery\\CrudUsingNonQuery\\CrudUsingNonQuery.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DeLL\\Desktop\\19B1\\CrudUsingNonQuery\\CrudUsingNonQuery\\CrudUsingNonQuery.csproj": {
+    "E:\\ProjectsEdge\\19B1\\Lectures-19\\Lecture-6\\CrudUsingNonQuery\\CrudUsingNonQuery\\CrudUsingNonQuery.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DeLL\\Desktop\\19B1\\CrudUsingNonQuery\\CrudUsingNonQuery\\CrudUsingNonQuery.csproj",
+        "projectUniqueName": "E:\\ProjectsEdge\\19B1\\Lectures-19\\Lecture-6\\CrudUsingNonQuery\\CrudUsingNonQuery\\CrudUsingNonQuery.csproj",
         "projectName": "CrudUsingNonQuery",
-        "projectPath": "C:\\Users\\DeLL\\Desktop\\19B1\\CrudUsingNonQuery\\CrudUsingNonQuery\\CrudUsingNonQuery.csproj",
+        "projectPath": "E:\\ProjectsEdge\\19B1\\Lectures-19\\Lecture-6\\CrudUsingNonQuery\\CrudUsingNonQuery\\CrudUsingNonQuery.csproj",
         "packagesPath": "C:\\Users\\DeLL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DeLL\\Desktop\\19B1\\CrudUsingNonQuery\\CrudUsingNonQuery\\obj\\",
+        "outputPath": "E:\\ProjectsEdge\\19B1\\Lectures-19\\Lecture-6\\CrudUsingNonQuery\\CrudUsingNonQuery\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DeLL\\AppData\\Roaming\\NuGet\\NuGet.Config",

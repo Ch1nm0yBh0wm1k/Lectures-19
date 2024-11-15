@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrudUsingNonQuery")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+042cb0f5f258c4749033b8a39e72c401970ef46f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrudUsingNonQuery")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrudUsingNonQuery")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

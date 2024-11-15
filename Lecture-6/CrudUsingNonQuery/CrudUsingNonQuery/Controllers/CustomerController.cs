@@ -19,7 +19,7 @@ namespace CrudUsingNonQuery.Controllers
                 string query = "select * from Customer";
 
                 SqlCommand cmd = new SqlCommand(query, conn);
-
+                
                 conn.Open();
 
                 SqlDataReader reader = cmd.ExecuteReader();

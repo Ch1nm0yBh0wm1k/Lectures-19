@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M7upC0lpBo+IQ+JE6W3+kTBi7eXZfm7997rLNX+BZfN3VVsf2WIRX0+mDysr1FmUnS/c0mIvDROndwlDk6gd3w==",
+  "dgSpecHash": "/IbSavFeAkYYCs1S1QGyVIpER2Wc9Jiug5bGM2BbGrklBaYD1TXcb+J4+5qMYSSBVkCoehc6XRCsOnPcnmNeCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DeLL\\Desktop\\19B1\\CrudUsingNonQuery\\CrudUsingNonQuery\\CrudUsingNonQuery.csproj",
+  "projectFilePath": "E:\\ProjectsEdge\\19B1\\Lectures-19\\Lecture-6\\CrudUsingNonQuery\\CrudUsingNonQuery\\CrudUsingNonQuery.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DeLL\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\DeLL\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
