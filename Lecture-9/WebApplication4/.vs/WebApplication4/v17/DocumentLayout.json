@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DeLL\\Desktop\\20\\WebApplication4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDADCBEF-7A7A-4B20-9185-CACAF3D24306}|WebApplication4.csproj|c:\\users\\dell\\desktop\\20\\webapplication4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DDADCBEF-7A7A-4B20-9185-CACAF3D24306}|WebApplication4.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDADCBEF-7A7A-4B20-9185-CACAF3D24306}|WebApplication4.csproj|c:\\users\\dell\\desktop\\20\\webapplication4\\model\\c20b2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDADCBEF-7A7A-4B20-9185-CACAF3D24306}|WebApplication4.csproj|solutionrelative:model\\c20b2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDADCBEF-7A7A-4B20-9185-CACAF3D24306}|WebApplication4.csproj|c:\\users\\dell\\desktop\\20\\webapplication4\\model\\vwgetstudentwithcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDADCBEF-7A7A-4B20-9185-CACAF3D24306}|WebApplication4.csproj|solutionrelative:model\\vwgetstudentwithcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDADCBEF-7A7A-4B20-9185-CACAF3D24306}|WebApplication4.csproj|c:\\users\\dell\\desktop\\20\\webapplication4\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDADCBEF-7A7A-4B20-9185-CACAF3D24306}|WebApplication4.csproj|solutionrelative:model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VwGetStudentWithCourse.cs",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\20\\WebApplication4\\Model\\VwGetStudentWithCourse.cs",
+              "RelativeDocumentMoniker": "Model\\VwGetStudentWithCourse.cs",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\20\\WebApplication4\\Model\\VwGetStudentWithCourse.cs",
+              "RelativeToolTip": "Model\\VwGetStudentWithCourse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:29:58.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\20\\WebApplication4\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "Model\\Student.cs",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\20\\WebApplication4\\Model\\Student.cs",
+              "RelativeToolTip": "Model\\Student.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:29:33.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "C20b2Context.cs",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\20\\WebApplication4\\Model\\C20b2Context.cs",
+              "RelativeDocumentMoniker": "Model\\C20b2Context.cs",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\20\\WebApplication4\\Model\\C20b2Context.cs",
+              "RelativeToolTip": "Model\\C20b2Context.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAArwCMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:28:25.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\20\\WebApplication4\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\20\\WebApplication4\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-13T06:23:06.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
